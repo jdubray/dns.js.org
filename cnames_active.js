@@ -306,6 +306,7 @@ var cnames_active = {
     ,"opentype": "nodebox.github.io/opentype.js"
     ,"os": "os-js.github.io/OS.js" //CF
     ,"pad": "ebraminio.github.io/pad.js"
+    ,"pal": "jdubray.github.io/pal"
     ,"pamatcher": "pmros.github.io/pamatcher"
     ,"paperclip": "crcn.github.com/paperclip.js.org"
     ,"paraiba": "paraibajs.github.io"
